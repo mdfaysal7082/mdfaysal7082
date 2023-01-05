@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Md Faysal Ahmed
 #### I am a professional Web designer and developer.
 
-I am an expert in HTML, CSS, Bootstrap, Javascript, and Jquery, WordPress. I am passionate about all things Tech. Currently preparing for my new business. Interested to learn more about the field of tech and use that knowledge for the same. I also help people build apps, servers, websites and cybersecurity. I'm also administrator of Resal Sebaloy Btw I use arch ...
+I am an expert in HTML, CSS, Bootstrap, Javascript, Jquery, and WordPress. I am passionate about all things Tech. Currently preparing for my new business. Interested to learn more about the field of tech and use that knowledge for the same. I also help people build apps, servers, websites and cybersecurity. I'm also administrator of Resal Sebaloy Btw I use arch ...
 
 Skills: REACT / JS / PHP / HTML / CSS
 
